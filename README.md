@@ -1,8 +1,8 @@
 ## ✊✋✌️ Rock Paper Scissors — The Classic Game, Reimagined  
 An engaging and dynamic Rock Paper Scissors game crafted with HTML, CSS, and JavaScript. Challenge the computer in a sleek, responsive interface that works seamlessly across all devices.
 
-### 🔗 [🎮 Play the Game Live]([https://github.com/saikrishnamamidi2003.github.io/Rock-Paper-Scissor](https://saikrishnamamidi2003.github.io/Rock-Paper-Scissor/))  
-Experience the thrill in real time—click to play now!
+### 🔗 [🎮 Play the Game Live]
+Experience the thrill in real time—click to play now!(https://saikrishnamamidi2003.github.io/Rock-Paper-Scissor/)
 
 ---
 
